@@ -3,6 +3,10 @@ A curated collection of blockchain games and their public smart contracts
 
 ## Ethereum
 
+- CryptoKitties
+  - [Website](https://www.cryptokitties.co)
+  - [Smart Contracts](ethereum/cryptokitties)
+
 - Etheremon 
   - [Website](https://www.etheremon.com) 
   - [Smart Contracts](https://github.com/Etheremon/smartcontract)

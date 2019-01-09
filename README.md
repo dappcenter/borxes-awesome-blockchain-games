@@ -4,5 +4,5 @@ A curated collection of blockchain games and their public smart contracts
 ## Ethereum
 
 - Etheremon 
-  - [website](https://www.etheremon.com) 
-  - [contracts](https://github.com/Etheremon/smartcontract)
+  - [Website](https://www.etheremon.com) 
+  - [Smart Contracts repo](https://github.com/Etheremon/smartcontract)

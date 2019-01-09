@@ -1,3 +1,6 @@
 [submodule "ethereum/smartcontract"]
 	path = ethereum/smartcontract
 	url = https://github.com/Etheremon/smartcontract.git
+[submodule "ethereum/etheremon/smartcontract"]
+	path = ethereum/etheremon/smartcontract
+	url = https://github.com/Etheremon/smartcontract.git

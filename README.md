@@ -18,3 +18,7 @@ A curated collection of blockchain games and their public smart contracts
 - Ether Shrimp Farm
   - [Website](http://ethershrimpfarm.net)
   - [Smart contracts](ethereum/ethershrimpfarm)
+
+- Crypto Allstars (_shut down by a vigilante_)
+  - [Website](https://www.coindesk.com/game-over-anonymous-vigilante-shuts-down-ethereum-game-crypto-all-stars)
+  - [Smart Contracts](ethereum/cryptoallstars)

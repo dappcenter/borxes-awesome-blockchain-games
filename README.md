@@ -7,6 +7,8 @@ A curated collection of blockchain games and their public smart contracts
 
 - Etheremon: [Website](https://www.etheremon.com) | [Smart Contracts](https://github.com/Etheremon/smartcontract)
 
+- Gods Unchained TCG [Website](https://godsunchained.com/) | [Smart Contracts](https://github.com/fuelgames/gu-collectable-solidity) | [API](https://github.com/fuelgames/gods-unchained-api)
+
 - EtherTanks (_exit scam_): [Website](https://www.storeofvalueblog.com/posts/crypto-scam-spotlight-ethertanks) | [Smart Contracts](ethereum/ethertanks)
 
 - Ether Shrimp Farm: [Website](http://ethershrimpfarm.net) | [Smart contracts](ethereum/ethershrimpfarm)

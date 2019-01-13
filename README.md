@@ -1,5 +1,7 @@
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/borxes/awesome-blockchain-games)
+
 # awesome-blockchain-games
-A curated collection of blockchain games and their public smart contracts
+A curated collection of blockchain games and their public smart contracts.
 
 ## Ethereum
 
@@ -9,13 +11,17 @@ A curated collection of blockchain games and their public smart contracts
 
 - EtherTanks (_exit scam_): [Website](https://www.storeofvalueblog.com/posts/crypto-scam-spotlight-ethertanks) | [Smart Contracts](ethereum/ethertanks)
 
+- 0xUniverse [Website](https://0xuniverse.io) | ~~Smart Contracts~~
+
+- Fomo3D [Website](https://exitscam.me) | Smart Contract(ethereum/fomo3d)
+
 - Ether Shrimp Farm: [Website](http://ethershrimpfarm.net) | [Smart contracts](ethereum/ethershrimpfarm)
 
 - Crypto Allstars (_shut down by a vigilante_): [Website](https://www.coindesk.com/game-over-anonymous-vigilante-shuts-down-ethereum-game-crypto-all-stars) | [Smart Contracts](ethereum/cryptoallstars)
 
 ## EOS
 
-- EOS Knights: [Website](https://eosknights.io) [Smart Contracts](https://github.com/bada-studio/knights_contract/tree/master/knights)
+- EOS Knights: [Website](https://eosknights.io) | [Smart Contracts](https://github.com/bada-studio/knights_contract/tree/master/knights)
 
 ## TRON
 

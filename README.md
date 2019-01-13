@@ -15,6 +15,8 @@ A curated collection of blockchain games and their public smart contracts.
 
 - 0xUniverse [Website](https://0xuniverse.io) | ~~Smart Contracts~~
 
+- Dragonereum [Website](https://dragonereum.io) | [Smart Contracts](https://github.com/dragonereum/dragonereum-contracts)
+
 - Fomo3D [Website](https://exitscam.me) | [Smart Contract](ethereum/Fomo3D)
 
 - Ether Shrimp Farm: [Website](http://ethershrimpfarm.net) | [Smart contracts](ethereum/ethershrimpfarm)

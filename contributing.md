@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+You're welcome to contribute your favorite blockchain games, especially if their public contracts source code is available.
 
 ## Adding something to an awesome list
 

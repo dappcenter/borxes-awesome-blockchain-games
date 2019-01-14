@@ -19,6 +19,8 @@ A curated collection of blockchain games and their public smart contracts.
 
 - Fomo3D [Website](https://exitscam.me) | [Smart Contract](ethereum/Fomo3D)
 
+- Countdown3D [Website](https://countdown3d.com) | [Smart Contract](https://etherscan.io/address/0xc735000293cb6790D8b9CC978F4dCce7018d8f7F#code)
+
 - Ether Shrimp Farm: [Website](http://ethershrimpfarm.net) | [Smart contracts](ethereum/ethershrimpfarm)
 
 - Crypto Allstars (_shut down by a vigilante_): [Website](https://www.coindesk.com/game-over-anonymous-vigilante-shuts-down-ethereum-game-crypto-all-stars) | [Smart Contracts](ethereum/cryptoallstars)

@@ -3,6 +3,13 @@
 # awesome-blockchain-games
 A curated collection of blockchain games and their public smart contracts.
 
+## Table of Contents
+
+- [Ethereum](#ethereum)
+- [EOS](#EOS)
+- [TRON](#TRON)
+
+
 ## Ethereum
 
 - CryptoKitties: [Website](https://www.cryptokitties.co) | [Smart Contracts](ethereum/cryptokitties)

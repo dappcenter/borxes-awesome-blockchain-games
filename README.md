@@ -17,6 +17,8 @@ A curated collection of blockchain games and their public smart contracts.
 
 - Dragonereum [Website](https://dragonereum.io) | [Smart Contracts](https://github.com/dragonereum/dragonereum-contracts)
 
+- Cryptopunks [Websote](http://thecryptopunks.com) | [Smart Contracts](https://github.com/larvalabs/cryptopunks)
+
 - Fomo3D [Website](https://exitscam.me) | [Smart Contract](ethereum/Fomo3D)
 
 - Countdown3D [Website](https://countdown3d.com) | [Smart Contract](https://etherscan.io/address/0xc735000293cb6790D8b9CC978F4dCce7018d8f7F#code)
@@ -28,6 +30,8 @@ A curated collection of blockchain games and their public smart contracts.
 ## EOS
 
 - EOS Knights: [Website](https://eosknights.io) | [Smart Contracts](https://github.com/bada-studio/knights_contract/tree/master/knights)
+
+- MonsterEOS: [Website](https://monstereos.io) | [Smart Contracts](https://github.com/MonsterEOS/monstereos)
 
 ## TRON
 
